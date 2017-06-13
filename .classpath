@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/jars/commons-dbcp2-2.1.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/jars/commons-dbcp2-2.1.1 (2).jar"/>
+	<classpathentry kind="lib" path="C:/jars/commons-lang3-3.5 (1).jar"/>
+	<classpathentry kind="lib" path="C:/jars/commons-lang3-3.5 (2).jar"/>
+	<classpathentry kind="lib" path="C:/jars/commons-lang3-3.5 (4).jar"/>
+	<classpathentry kind="lib" path="C:/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/jars/commons-logging-99.0-does-not-exist.jar"/>
+	<classpathentry kind="lib" path="C:/jars/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/jars/lombok-1.16.16.jar"/>
+	<classpathentry kind="lib" path="C:/jars/ojdbc-14-10gR3.jar"/>
+	<classpathentry kind="lib" path="C:/jars/spring-beans-5.0.0.M5.jar"/>
+	<classpathentry kind="lib" path="C:/jars/spring-core-5.0.0.M5.jar"/>
+	<classpathentry kind="lib" path="C:/jars/spring-jdbc-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/jars/spring-tx-5.0.0.M5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
